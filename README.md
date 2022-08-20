@@ -1,4 +1,4 @@
-### Olá! Meu nome é João Vitor Tadeo, amo Games e a como são criados!
+### Olá! Meu nome é João Vitor Tadeo, amo Games e como são criados!
 
 - 🔭 Atualmente, estou desempregrado.
 - 🌱 Estudando criação de Games na Unity.
