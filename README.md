@@ -1,6 +1,5 @@
-### Olá! Meu nome é João Vitor Tadeo, amo Games e como são criados!
+### Olá! Meu nome é João Vitor Tadeo, adoro o mundo da programação e estou dando os meus primeiros passos nesse mundo!
 
-- 🔭 Atualmente, estou desempregrado.
 - 🌱 Estudando Front-End com JavaScript.
 
 <div>
