@@ -1,7 +1,7 @@
 ### Olá! Meu nome é João Vitor Tadeo, amo Games e como são criados!
 
 - 🔭 Atualmente, estou desempregrado.
-- 🌱 Estudando criação de Games na Unity.
+- 🌱 Estudando Front-End com JavaScript.
 
 <div>
   <a href="https://github.com/JvTadeo">
@@ -10,7 +10,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tadeo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Tadeo-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Tadeo-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Tadeo-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
