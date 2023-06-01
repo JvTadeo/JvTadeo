@@ -35,7 +35,9 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
   <a href='https://code.visualstudio.com/' target="_blank">
     <img align="center" alt="Tadeo-VSCODE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
   </a>
-  <img align="center" alt="Tadeo-VISUALSTUDIO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >  
+  <a href='https://visualstudio.microsoft.com/' target="_blank">
+    <img align="center" alt="Tadeo-VISUALSTUDIO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >  
+  </a>
 </div>
 
 ### Engine
