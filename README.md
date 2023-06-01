@@ -2,7 +2,8 @@
 ***
 Eu sou desenvolvedor Front-End no Brasil
 ***
-##Sobre
+## Sobre
+
 Desde de criança tive um apego a tecnologia e sempre quis me aprofundar nesse assunto, comecei estudando alguams partas do audio visual, como edição de vídeo, edição de imagens e afins.
 Agora estou entrando no mundo da programação, pesquisando e estudando. realizei alguns cursos na Plataforma da Udemy, como JavaScprit, React, UI e UX, Desenvolvimento de Games, Modelagem 3D.
 O meu foco é a área de Front-end e estou estudando para conseguir um trabalho na área.
