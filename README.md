@@ -60,7 +60,7 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
 </div>
 
 ***  
-### Vídeos
+### Editores de Vídeos
 <div style="display: inline_block">
   <a href='https://www.adobe.com/' target="_blank">
     <img align="center" alt="Tadeo-Premiere" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" >
@@ -68,7 +68,18 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
   <a href='https://www.adobe.com/' target="_blank">
     <img align="center" alt="Tadeo-After Effects" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" >
 </div>
+ 
+***
+### 3D
 
+<div style="display: inline_block">
+  <a href='https://www.blender.org/' target="_blank">
+    <img align="center" alt="Tadeo-Blender" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+  </a>
+</div>
+
+***
+ 
   <div> 
   <a href="https://www.instagram.com/jvitortadeo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.tadeov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
