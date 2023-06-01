@@ -8,7 +8,9 @@ Agora estou entrando no mundo da programação, pesquisando e estudando. realize
 O meu foco é a área de Front-end e estou estudando para conseguir um trabalho na área.
 ***
 Curso: Superior em Tecnologia em Análise e desenvolvimento de sistemas
+
 Faculdade: Instituto Federal de São Paulo - IFSP
+
 Habilidades: Lógica de Programação, Criatividade, Empenho e seriedade.
 ***
 
