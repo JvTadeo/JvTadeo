@@ -22,6 +22,7 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
   <img align="center" alt="Tadeo-PY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >  
 </div>
 ***
+
 ### Frameworks
 <div style="display: inline_block">
   <img align="center" alt="Tadeo-DJANGO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
