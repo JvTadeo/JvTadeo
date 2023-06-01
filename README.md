@@ -11,9 +11,13 @@ Curso: Superior em Tecnologia em Análise e desenvolvimento de sistemas
 
 Faculdade: Instituto Federal de São Paulo - IFSP
 
-Habilidades: Lógica de Programação, Criatividade, Empenho e seriedade.
+Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
 ***
-
+Linguagens
+<img align="center" alt="Tadeo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+ <img align="center" alt="Tadeo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ <img align="center" alt="Tadeo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
 <div>
   <a href="https://github.com/JvTadeo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JvTadeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
