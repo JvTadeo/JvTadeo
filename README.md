@@ -1,8 +1,16 @@
-### Hello! My name is João Vitor Tadeo 
-### Olá! Meu nome é João Vitor Tadeo, adoro o mundo da programação e estou dando os meus primeiros passos nesse mundo!
+### Olá! Meu nome é João Vitor Tadeo
 ***
-
-- 🌱 Estudando Front-End com JavaScript.
+Eu sou desenvolvedor Front-End no Brasil
+***
+##Sobre
+Desde de criança tive um apego a tecnologia e sempre quis me aprofundar nesse assunto, comecei estudando alguams partas do audio visual, como edição de vídeo, edição de imagens e afins.
+Agora estou entrando no mundo da programação, pesquisando e estudando. realizei alguns cursos na Plataforma da Udemy, como JavaScprit, React, UI e UX, Desenvolvimento de Games, Modelagem 3D.
+O meu foco é a área de Front-end e estou estudando para conseguir um trabalho na área.
+***
+Curso: Superior em Tecnologia em Análise e desenvolvimento de sistemas
+Faculdade: Instituto Federal de São Paulo - IFSP
+Habilidades: Lógica de Programação, Criatividade, Empenho e seriedade.
+***
 
 <div>
   <a href="https://github.com/JvTadeo">
