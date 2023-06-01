@@ -24,9 +24,15 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
 
 ### Frameworks
 <div style="display: inline_block">
-  <img align="center" alt="Tadeo-DJANGO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
-  <img align="center" alt="Tadeo-REACT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
-  <img align="center" alt="Tadeo-BOOSTRAP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
+  <a href='https://www.djangoproject.com/' target="_blank">
+    <img align="center" alt="Tadeo-DJANGO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
+  </a>
+  <a href='https://react.dev/' target="_blank">
+    <img align="center" alt="Tadeo-REACT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+  </a>    
+  <a href='https://getbootstrap.com/'>
+    <img align="center" alt="Tadeo-BOOSTRAP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
+  </a>    
 </div>
 
 ***
