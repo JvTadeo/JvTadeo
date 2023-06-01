@@ -58,7 +58,17 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
     <img align="center" alt="Tadeo-Photoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   </a>
 </div>
-  
+
+***  
+### Vídeos
+<div style="display: inline_block">
+  <a href='https://www.adobe.com/' target="_blank">
+    <img align="center" alt="Tadeo-Premiere" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" >
+  </a>
+  <a href='https://www.adobe.com/' target="_blank">
+    <img align="center" alt="Tadeo-After Effects" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" >
+</div>
+
   <div> 
   <a href="https://www.instagram.com/jvitortadeo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.tadeov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
