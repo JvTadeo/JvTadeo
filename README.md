@@ -37,7 +37,27 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
   </a>
   <img align="center" alt="Tadeo-VISUALSTUDIO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >  
 </div>
-  ##
+
+### Engine
+<div style="display: inline_block">
+  <a href='https://unity.com/pt' target="_blank">
+    <img align="center" alt="Tadeo-Unity" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" >
+  </a>
+</div>
+
+***
+### Designs
+<div style="display: inline_block">
+  <a href='https://www.figma.com/' target="_blank">
+    <img align="center" alt="Tadeo-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
+  </a>
+  <a href='https://www.adobe.com/' target="_blank">
+    <img align="center" alt="Tadeo-XD" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" >
+  </a>
+    <a href='https://www.adobe.com/' target="_blank">
+    <img align="center" alt="Tadeo-Photoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  </a>
+</div>
   
   <div> 
   <a href="https://www.instagram.com/jvitortadeo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
