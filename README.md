@@ -15,11 +15,21 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
 ***
 ### Linguagens
 <div style="display: inline_block">
-  <img align="center" alt="Tadeo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Tadeo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Tadeo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Tadeo-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
-  <img align="center" alt="Tadeo-PY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >  
+  <a href='https://developer.mozilla.org/en-US/docs/Web/HTML' target="_blank">
+    <img align="center" alt="Tadeo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  </a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank">
+    <img align="center" alt="Tadeo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank">
+    <img align="center" alt="Tadeo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </a>
+  <a href='https://learn.microsoft.com/en-us/dotnet/csharp/' target="_blank">
+     <img align="center" alt="Tadeo-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
+  </a>
+  <a href='https://www.python.org/' target="_blank">
+    <img align="center" alt="Tadeo-PY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >  
+  </a>    
 </div>
 
 ### Frameworks
