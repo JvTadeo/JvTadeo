@@ -1,4 +1,6 @@
+### Hello! My name is João Vitor Tadeo 
 ### Olá! Meu nome é João Vitor Tadeo, adoro o mundo da programação e estou dando os meus primeiros passos nesse mundo!
+***
 
 - 🌱 Estudando Front-End com JavaScript.
 
