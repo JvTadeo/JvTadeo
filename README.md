@@ -1,90 +1,92 @@
-### Olá! Meu nome é João Vitor Tadeo
-***
-Eu sou desenvolvedor Front-End no Brasil
-***
-## Sobre
-Desde de criança tive um apego a tecnologia e sempre quis me aprofundar nesse assunto, comecei estudando alguams partas do audio visual, como edição de vídeo, edição de imagens e afins.
-Agora estou entrando no mundo da programação, pesquisando e estudando. realizei alguns cursos na Plataforma da Udemy, como JavaScprit, React, UI e UX, Desenvolvimento de Games, Modelagem 3D.
-O meu foco é a área de Front-end e estou estudando para conseguir um trabalho na área.
-***
-Curso: Superior em Tecnologia em Análise e desenvolvimento de sistemas
+<img align="right" height="590em" src='https://raw.githubusercontent.com/gist/JvTadeo/66522d216f00ac07411cdd6ac4751cf1/raw/30952f27d122df27e829e4237918cfa1b84948b0/githubcard.svg'>
+<h1 align="left">Hello There!, I'm João Vitor</h1>
 
-Faculdade: Instituto Federal de São Paulo - IFSP
+- 🔥 Junior Front-End Developer and gaming enthusiasts
 
-Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
+- 🔭 I’m currently searching for work
+
+- 🎮 Fan of **how games are made** 
+
+- 🏫 College: Federal Institute of Education, Science and Technology of São Paulo - IFSP.
+
+- ✏ Course: Technology, Analysis, and Systems Development.
+
+- 🚀 Skills: Programming Logic, Creativity And Professionalims.
+
+
 ***
-### Linguagens
+<h3 align="left">Languages</h3
 <div style="display: inline_block">
   <a href='https://developer.mozilla.org/en-US/docs/Web/HTML' target="_blank">
-    <img align="center" alt="Tadeo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Tadeo-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank">
-    <img align="center" alt="Tadeo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Tadeo-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   </a>
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank">
-    <img align="center" alt="Tadeo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Tadeo-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
   <a href='https://learn.microsoft.com/en-us/dotnet/csharp/' target="_blank">
-     <img align="center" alt="Tadeo-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
+     <img align="center" alt="Tadeo-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" >
   </a>
   <a href='https://www.python.org/' target="_blank">
-    <img align="center" alt="Tadeo-PY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >  
+    <img align="center" alt="Tadeo-PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >  
   </a>    
 </div>
 
-### Frameworks
+<h3 align="left">FrameWorks</h3>
 <div style="display: inline_block">
   <a href='https://www.djangoproject.com/' target="_blank">
-    <img align="center" alt="Tadeo-DJANGO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
+    <img align="center" alt="Tadeo-DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" >
   </a>
   <a href='https://react.dev/' target="_blank">
-    <img align="center" alt="Tadeo-REACT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+    <img align="center" alt="Tadeo-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
   </a>    
   <a href='https://getbootstrap.com/'>
-    <img align="center" alt="Tadeo-BOOSTRAP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
+    <img align="center" alt="Tadeo-BOOSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" >
   </a>    
 </div>
 
 ***
-### IDEs
+<h3 align="left">IDEs</h3>
 <div style="display: inline_block">
   <a href='https://code.visualstudio.com/' target="_blank">
-    <img align="center" alt="Tadeo-VSCODE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
+    <img align="center" alt="Tadeo-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
   </a>
   <a href='https://visualstudio.microsoft.com/' target="_blank">
-    <img align="center" alt="Tadeo-VISUALSTUDIO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >  
+    <img align="center" alt="Tadeo-VISUALSTUDIO" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" >  
   </a>
 </div>
 
-### Engine
+<h3 align="left">Engine</h3>
 <div style="display: inline_block">
   <a href='https://unity.com/pt' target="_blank">
-    <img align="center" alt="Tadeo-Unity" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" >
+    <img align="center" alt="Tadeo-Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
   </a>
 </div>
 
 ***
-### Designs
+<h3 align="left">Design</h3>
 <div style="display: inline_block">
   <a href='https://www.figma.com/' target="_blank">
-    <img align="center" alt="Tadeo-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
+    <img align="center" alt="Tadeo-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" >
   </a>
   <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-XD" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" >
+    <img align="center" alt="Tadeo-XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" >
   </a>
     <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-Photoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+    <img align="center" alt="Tadeo-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   </a>
 </div>
 
 ***  
-### Editores de Vídeos
+### Video Editors
 <div style="display: inline_block">
   <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-Premiere" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" >
+    <img align="center" alt="Tadeo-Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" >
   </a>
   <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-After Effects" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" >
+    <img align="center" alt="Tadeo-After Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" >
 </div>
  
 ***
@@ -92,13 +94,13 @@ Habilidades: Lógica de Programação, Criatividade, Empenho e Seriedade.
 
 <div style="display: inline_block">
   <a href='https://www.blender.org/' target="_blank">
-    <img align="center" alt="Tadeo-Blender" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+    <img align="center" alt="Tadeo-Blender"src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   </a>
 </div>
 
 ***
 
-### Contatos
+<h3 align="left">Contact</h3>
 <div style="display: inline_block">
   <a href = "mailto:joao.tadeov@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
