@@ -1,9 +1,9 @@
 <img align="right" height="590em" src='https://raw.githubusercontent.com/gist/JvTadeo/66522d216f00ac07411cdd6ac4751cf1/raw/30952f27d122df27e829e4237918cfa1b84948b0/githubcard.svg'>
 <h1 align="left">Hello There!, I'm João Vitor</h1>
 
-- 🔥 Game Developer | Unity
+- 🔥 Fronte End Developer | Unity Developer
 
-- 🔭 I’m currently searching for work
+- 🔭  I’m currently working at HTM Electronics
 
 - 🎮 Fan of **how games are made** 
 
