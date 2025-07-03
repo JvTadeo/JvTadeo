@@ -1,111 +1,50 @@
-<img align="right" height="590em" src='https://raw.githubusercontent.com/gist/JvTadeo/66522d216f00ac07411cdd6ac4751cf1/raw/30952f27d122df27e829e4237918cfa1b84948b0/githubcard.svg'>
-<h1 align="left">Hello There!, I'm João Vitor</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JvTadeo/66522d216f00ac07411cdd6ac4751cf1b84948b0/githubcard.svg">
 
-- 🔥 Fronte End Developer | Unity Developer
+# Hello There! I'm João Vitor
 
-- 🔭  I’m currently working at HTM Electronics
+- 👨‍💻 Full Stack Developer passionate about building scalable and user-friendly web applications.
+- 🔧 Experienced with back-end technologies: **Java, JavaScript, TypeScript, Node.js, Python**.
+- 🌐 Front-end enthusiast working with frameworks like **React, Next.js, Vue, Angular**.
+- 🗄️ Skilled in database design and management using **PostgreSQL, MySQL, SQL Server, MongoDB**.
+- 🚀 Focused on clean code, SOLID principles, Clean Architecture, and automated testing (Jest, JUnit, Pytest).
+- 🤝 I value clear communication, teamwork, and continuous learning as the pillars for delivering effective solutions.
+- ☕ Always open to new connections, collaborations, and challenges that push me to grow.
 
-- 🎮 Fan of **how games are made** 
+---
 
-- 🏫 College: Federal Institute of Education, Science and Technology of São Paulo - IFSP.
+## 🚀 Skills & Technologies
 
-- ✏ Course: Technology, Analysis, and Systems Development.
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🚀 Skills: Programming Logic, Creativity And Professionalims.
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-***
-<h3 align="left">Languages</h3
-<div style="display: inline_block">
-  <a href='https://developer.mozilla.org/en-US/docs/Web/HTML' target="_blank">
-    <img align="center" alt="Tadeo-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank">
-    <img align="center" alt="Tadeo-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank">
-    <img align="center" alt="Tadeo-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-  <a href='https://learn.microsoft.com/en-us/dotnet/csharp/' target="_blank">
-     <img align="center" alt="Tadeo-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" >
-  </a>
-  <a href='https://www.python.org/' target="_blank">
-    <img align="center" alt="Tadeo-PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >  
-  </a>    
-</div>
+### Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-505A8F?style=for-the-badge&logo=pytest&logoColor=white)
 
-<h3 align="left">FrameWorks</h3>
-<div style="display: inline_block">
-  <a href='https://www.djangoproject.com/' target="_blank">
-    <img align="center" alt="Tadeo-DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" >
-  </a>
-  <a href='https://react.dev/' target="_blank">
-    <img align="center" alt="Tadeo-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-  </a>    
-  <a href='https://getbootstrap.com/'>
-    <img align="center" alt="Tadeo-BOOSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" >
-  </a>    
-</div>
+---
 
-***
-<h3 align="left">IDEs</h3>
-<div style="display: inline_block">
-  <a href='https://code.visualstudio.com/' target="_blank">
-    <img align="center" alt="Tadeo-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
-  </a>
-  <a href='https://visualstudio.microsoft.com/' target="_blank">
-    <img align="center" alt="Tadeo-VISUALSTUDIO" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" >  
-  </a>
-</div>
+## 📫 Contact Me
 
-<h3 align="left">Engine</h3>
-<div style="display: inline_block">
-  <a href='https://unity.com/pt' target="_blank">
-    <img align="center" alt="Tadeo-Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.tadeov@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvTadeo)
 
-***
-<h3 align="left">Design</h3>
-<div style="display: inline_block">
-  <a href='https://www.figma.com/' target="_blank">
-    <img align="center" alt="Tadeo-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" >
-  </a>
-  <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" >
-  </a>
-    <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  </a>
-</div>
+---
 
-***  
-### Video Editors
-<div style="display: inline_block">
-  <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" >
-  </a>
-  <a href='https://www.adobe.com/' target="_blank">
-    <img align="center" alt="Tadeo-After Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" >
-</div>
- 
-***
-### 3D
-
-<div style="display: inline_block">
-  <a href='https://www.blender.org/' target="_blank">
-    <img align="center" alt="Tadeo-Blender"src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  </a>
-</div>
-
-***
-
-<h3 align="left">Contact</h3>
-<div style="display: inline_block">
-  <a href = "mailto:joao.tadeov@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/jvTadeo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+Thanks for visiting my profile! Feel free to connect or check out my projects.
