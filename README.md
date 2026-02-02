@@ -1,40 +1,72 @@
-# Hello There! I'm João Vitor
+# Hello there! I'm João Vitor 👋
 
-- 👨‍💻 Full Stack Developer passionate about building scalable and user-friendly web applications.
-- 🔧 Experienced with back-end technologies: **JavaScript, TypeScript, Node.js, C#, Java**.
-- 🌐 Front-end enthusiast working with frameworks like **React, Vue**.
-- 🗄️ Skilled in database design and management using **PostgreSQL, MySQL, SQL Server**.
-- 🚀 Focused on clean code, SOLID principles, Clean Architecture.
-- 🤝 I value clear communication, teamwork, and continuous learning as the pillars for delivering effective solutions.
-- ☕ Always open to new connections, collaborations, and challenges that push me to grow.
+Full Stack Developer with a strong focus on **back-end engineering**, **real-time systems**, and **scalable web applications**.  
+I work across the entire stack, building APIs, dashboards, and data-driven interfaces with an emphasis on **performance, clean architecture, and maintainability**.
+
+- 👨‍💻 Full Stack Developer working with **Node.js, TypeScript, Java, and C#**
+- 🧠 Back-end oriented, applying **SOLID principles** and **Clean Architecture**
+- 🌐 Front-end experience with **React, Vue, and Quasar**, focused on real-time and dashboard-based applications
+- 🔄 Experience with **asynchronous systems**, **message queues**, and **WebSockets**
+- 📈 Passionate about writing clean, readable code and continuously improving system design
+- 🤝 I value clear communication, collaboration, and well-defined requirements
+- 🚀 Always open to learning, challenges, and meaningful projects
+
+---
+
+## 🧩 What I Build
+
+- ⚡ **RESTful APIs** and back-end services with Node.js and Express
+- 📊 **Real-time dashboards** using WebSockets and message queues
+- 🧱 Applications structured with **Clean Architecture** and domain separation
+- 🔄 Systems integrated with **Redis** for caching and **RabbitMQ** for asynchronous processing
+- 🖥️ Front-end applications focused on usability, performance, and data visualization
 
 ---
 
 ## 🚀 Skills & Technologies
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🧠 Back-End
+- Node.js, TypeScript, Java, C#
+- Express.js, REST APIs, WebSockets
+- Clean Architecture, SOLID Principles
+- Redis (cache & performance optimization)
+- RabbitMQ (asynchronous messaging)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🌐 Front-End
+- React, Vue.js, Quasar
+- JavaScript, HTML, CSS
+- Tailwind CSS, Bootstrap, Shadcn/UI
+- Component-based UI and real-time data rendering
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQL Server
+- Data modeling and query optimization
+
+### 🛠️ Infrastructure & Tools
+- Docker
+- Git & GitHub
+- Version control and collaborative workflows
+
+---
+
+## 📌 Professional Mindset
+
+- Focus on **scalability, performance, and code quality**
+- Strong attention to **architecture and long-term maintainability**
+- Comfortable working with **existing systems**, improving and extending them
+- Continuous learning driven by real-world problems
 
 ---
 
 ## 📫 Contact Me
+
+📍 Brazil | Open to remote opportunities  
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.tadeov@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvTadeo)
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or check out my projects.
+Thanks for visiting my profile — feel free to explore my projects or reach out if you'd like to collaborate.
